@@ -131,7 +131,7 @@ refresh_tokens  — userId (→ users.id, unique), hashedToken, expiresAt
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/shortlist.git
+git clone https://github.com/jayeshsolanki6/shortlist.git
 cd shortlist
 
 # Install backend dependencies
